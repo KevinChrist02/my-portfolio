@@ -1,0 +1,20 @@
+html{
+    margin: 0 10% 0 10%;
+}
+
+#h1{
+    font-size: 10vh;
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 10% 0 10% 0 ;
+    border: 1vh solid black;
+    border-radius: 1vw;
+}
+
+#h2{
+    font-size: 6vh;
+}
